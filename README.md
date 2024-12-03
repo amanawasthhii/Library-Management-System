@@ -1,6 +1,4 @@
 # Library-Management-System
-Here's a structured description for my Book Donation System project to add to GitHub:
-
 Book Donation System
 
 Description
